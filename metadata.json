@@ -1,0 +1,6 @@
+{
+  "name": "Four Realms: Fantasy RTS",
+  "description": "A browser-based classic fantasy real-time strategy game featuring four playable factions: Kingdoms, Horde, Undead, and Elves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
